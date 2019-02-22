@@ -2,10 +2,5 @@
   "exercices": [
     { "id": 1, "agonist": "Post 1","antagonist"':"","synergist":'',"plane":'' }
  
-  ],
-  "level": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
   ]
- 
 }
